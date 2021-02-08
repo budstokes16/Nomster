@@ -69,7 +69,7 @@ gem 'font-awesome-rails'
 gem 'devise'
 gem "geocoder"
 gem "figaro"
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'fog-aws', '~> 0.7.6'
 gem 'mime-types', '~> 3.1'
 source 'https://rails-assets.org' do
